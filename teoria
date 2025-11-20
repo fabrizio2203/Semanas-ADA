@@ -1,1 +1,10 @@
+Búsqueda lineal
+Algoritmo que recorre un arreglo elemento por elemento hasta encontrar el valor buscado o llegar al final.
+Mejor caso: O(1)
+Promedio/peor caso: O(n)
+
+Búsqueda binaria
+Algoritmo que busca un elemento en un arreglo ordenado dividiéndolo repetidamente a la mitad.
+Mejor caso: O(1
+Promedio/peor caso: O(log n)
 
